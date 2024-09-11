@@ -87,7 +87,7 @@
 
 7. **Docker container'ı çalıştırın:**
    ```bash
-   docker compose up -d
+   docker-compose up -d
    ```
 
 8. **Ana dizine geri dönün ve Docker image oluşturun:**
