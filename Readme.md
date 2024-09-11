@@ -110,6 +110,10 @@
 
 10. **Tracker'ın fractal node ile senkronize olmasını bekleyin:**
     - Senkronizasyonu şu adresten takip edebilirsiniz: [http://127.0.0.1:3000/api](http://127.0.0.1:3000/api)
+11. **Senkronizasyon Durumunu kontrol etmek için:**
+   ```bash
+   curl http://127.0.0.1:3000/api
+   ```   
 
 ---
 
