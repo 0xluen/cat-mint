@@ -138,6 +138,7 @@
    *Not: Bu adımda seed'i ve cüzdan adresinizi kaydetmeyi unutmayın. Cüzdanınıza FB gönderin.*
 
 4. **CAT mintleyin:**
+   *fee-rate değerini 600 olarak kullanıyorum. Çok düşük fee ile gönderirseniz mintlemeyebilir. 
    ```bash
    yarn cli mint -i 45ee725c2c5993b3e4d308842d87e973bf1951f5f7a804b21e4dd964ecd12d6b_0 5 --fee-rate 300
    ```
