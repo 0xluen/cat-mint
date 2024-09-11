@@ -26,13 +26,13 @@
 
 2. **Node.js sürüm yöneticisi 'n' yükleme ve Node.js güncelleme:**
    ```bash
-   sudo npm install n -g
-   sudo n stable
+   npm install n -g
+   n stable
    ```
 
 3. **Yarn yükleme:**
    ```bash
-   sudo npm i -g yarn
+   npm i -g yarn
    ```
 
 4. **Docker kurulumu:**
