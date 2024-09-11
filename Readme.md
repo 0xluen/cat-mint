@@ -87,6 +87,8 @@
 
 7. **Docker container'ı çalıştırın:**
    ```bash
+   sudo chmod 777 docker/data
+   sudo chmod 777 docker/pgdata
    docker-compose up -d
    ```
 
