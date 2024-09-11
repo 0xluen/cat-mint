@@ -135,7 +135,7 @@
 
 4. **CAT mintleyin:**
    ```bash
-   yarn cli mint -i 45ee725c2c5993b3e4d308842d87e973bf1951f5f7a804b21e4dd964ecd12d6b_0 5 --fee-rate 250
+   yarn cli mint -i 45ee725c2c5993b3e4d308842d87e973bf1951f5f7a804b21e4dd964ecd12d6b_0 5 --fee-rate 300
    ```
 
    *Bu komutu her çalıştırdığınızda, seferde 5 adet CAT mintlenir.*
